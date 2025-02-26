@@ -1,0 +1,4 @@
+baseURL = 'jogn.me'
+languageCode = 'en-us'
+title = 'jogn.me'
+theme = 'PaperMod'
