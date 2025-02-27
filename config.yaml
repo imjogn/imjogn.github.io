@@ -1,0 +1,31 @@
+baseURL: jogn.me
+languageCode: en-us
+title: jogn.me
+theme: PaperMod
+params:
+  homeInfoParams:
+    Title: Howdy!
+    Content: I'm Jogn, welcome to my site.
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/imjogn"
+    - name: "soundcloud"
+      url: "https://soundcloud.com/imjogn"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - identifier: about me
+      name: about me
+      url: /aboutme/
+      weight: 40
+      # - identifier: projects
+      # name: projects
+      # url: /projects/
+      # weight: 10
