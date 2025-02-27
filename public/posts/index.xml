@@ -6,16 +6,24 @@
     <description>Recent content in Posts on jogn.me</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Feb 2025 13:17:19 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 00:48:41 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Ipod Modding</title>
+      <link>//localhost:1313/posts/ipod/</link>
+      <pubDate>Thu, 27 Feb 2025 00:48:41 -0500</pubDate>
+      <guid>//localhost:1313/posts/ipod/</guid>
+      <description>&lt;p&gt;I’m currently working on modding my iPod Classic (7th Gen) with a larger 2000mAh battery and an iFlash-Quad for 1TB of flash storage in place of the original hard drive. I had considered a USB-C mod, but the file transfer speeds are capped on this iPod model, so it wasn&amp;rsquo;t worthwhile to me.&lt;/p&gt;
+&lt;p&gt;This project is part of a larger effort on my part to break free from music streaming services and unnecessary digital bloat, but I have found that Soundcloud is a worthwhile tool for discovering new projects, so I have decided to continue using that platform.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome!</title>
       <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 26 Feb 2025 13:17:19 -0500</pubDate>
       <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;hello-everyone&#34;&gt;Hello Everyone!&lt;/h2&gt;
+&lt;p&gt;This is a site I created using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; to document my latest projects and personal endeavors.&lt;/p&gt;
+&lt;p&gt;Thanks for checking out my site, I hope you enjoy your time here!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
